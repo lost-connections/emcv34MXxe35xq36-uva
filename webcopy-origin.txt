@@ -1,0 +1,40 @@
+Uri: https://itch.io/profile/amber-pearl1
+File Name: C:\Downloaded Web Sites\itch.io\profile\amber-pearl1.html
+Content Type: text/html
+
+Uri: https://itch.io/static/images/frog-red.png
+File Name: C:\Downloaded Web Sites\itch.io\static\images\frog-red.png
+Content Type: image/png
+
+Uri: https://itch.io/static/manifest.json
+File Name: C:\Downloaded Web Sites\itch.io\static\manifest.json.txt
+Content Type: text/plain
+
+Uri: https://static.itch.io/main.css?1689625767
+File Name: C:\Downloaded Web Sites\itch.io\main.css
+Content Type: text/css
+
+Uri: https://amber-pearl1.itch.io/lost-connections
+File Name: C:\Downloaded Web Sites\itch.io\lost-connections.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/itchiogames
+File Name: C:\Downloaded Web Sites\itch.io\itchiogames.html
+Content Type: text/html
+
+Uri: https://static.itch.io/lib.min.js?1689625767
+File Name: C:\Downloaded Web Sites\itch.io\lib.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/bundle.min.js?1689625767
+File Name: C:\Downloaded Web Sites\itch.io\bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/react.min.js?1689625767
+File Name: C:\Downloaded Web Sites\itch.io\react.min.js
+Content Type: application/x-javascript
+
+Uri: https://static.itch.io/community.min.js?1689625767
+File Name: C:\Downloaded Web Sites\itch.io\community.min.js
+Content Type: application/x-javascript
+
